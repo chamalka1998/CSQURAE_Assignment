@@ -22,6 +22,6 @@ User authentication included.
 	*Invoice item report
 	*item report
 
-*Clone the project repository to your local machine and connect with the tech_haven_db.
+*Clone the project repository to your local machine and connect with the assignment (Database).
 
 *Run the project
